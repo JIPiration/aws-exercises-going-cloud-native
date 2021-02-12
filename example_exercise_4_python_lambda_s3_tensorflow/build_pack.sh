@@ -1,0 +1,1 @@
+docker exec -it lambdapack /bin/bash /outputs/build_pack_script.sh
